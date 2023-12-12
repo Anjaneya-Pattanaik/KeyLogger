@@ -21,3 +21,32 @@ Individuals for Personal Security: Individuals can use the keylogger as a person
 
 SOLUTION AND ITS VALUE PROPOSITION
 Our keylogger captures a comprehensive log of keystrokes, providing valuable insights into user activities.The solution is versatile, making it applicable in various scenarios such as corporate environments, parental control, and educational institutions. By offering real-time tracking of pressed, held, and released keys, our solution allows for instant detection of any suspicious or unauthorized activities. We prioritize security by implementing a secure logging mechanism that stores the captured data in both a text file and a JSON file, ensuring ease of analysis while maintaining data integrity. The intuitive graphical user interface built with Tkinter makes the solution accessible and easy to use for individuals with varying technical expertise.
+
+INSTRUCTIONS:
+ 
+Step 1:
+Ensure you have Python installed on your system. You can download it from python.org.
+Step 2:
+Open your terminal or command prompt and install the necessary libraries using the following commands:
+"pip install pynput"
+Step 3:
+Download the keystroke tracking program, "KeyLogger.py" and extract the file to a folder of your choice.
+
+Step 4:
+To use the program navigate to the folder containing the program and double click it or open the file in 
+the the python IDLE and run it. 
+
+Step 5:
+A GUI window will appear with "Click START to begin keylogging." displayed. Click the "Start" button to initiate the keylogger.
+
+Step 6:
+The program is now actively recording keystrokes. The GUI will display "[+] Keylogger is running!".
+
+Step 7:
+To stop the keylogger, click the "Stop" button. The program will display "Keylogger stopped."
+
+Step 8:
+Check the program folder for two log files:
+
+key_log.txt: Contains a chronological record of keystrokes.
+key_log.json: Provides a structured JSON format of the keystrokes.
