@@ -1,9 +1,11 @@
 Key-logger : Capturing Keystrokes
 
 AGENDA
+
 Keyloggers hold paramount significance in cybersecurity as essential tools for threat detection, prevention, and user behavior analysis. These discreet applications monitor and record keystrokes, enabling the identification of potential security breaches, insider threats, and anomalies in user activities. Crucial for digital forensics, keyloggers aid incident response, enhancing the overall resilience of systems. By facilitating password security, compliance monitoring, and real-time threat detection, keyloggers contribute to proactive cybersecurity measures. While their relevance is undeniable, responsible deployment is imperative, ensuring ethical use, user privacy, and compliance with legal regulations.
 
 PROJECT  OVERVIEW
+
 A keylogger is a type of software or hardware device that can capture or record every keystroke made on a computer or a mobile device.
 This project helped me :
 Understand the Basics of a keylogger
@@ -26,9 +28,11 @@ INSTRUCTIONS:
  
 Step 1:
 Ensure you have Python installed on your system. You can download it from python.org.
+
 Step 2:
 Open your terminal or command prompt and install the necessary libraries using the following commands:
 "pip install pynput"
+
 Step 3:
 Download the keystroke tracking program, "KeyLogger.py" and extract the file to a folder of your choice.
 
