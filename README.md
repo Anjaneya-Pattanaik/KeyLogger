@@ -15,6 +15,7 @@ This project helped me :
 Basics of Python GUI
 
 WHO ARE THE END USERS OF THIS PROJECT?
+
 The end users of a keylogger project in the cybersecurity domain can vary depending on the specific use case and intended application:
 Corporate IT Security Teams: The keylogger can be used as a tool for monitoring employee activities on company devices, helping to identify and respond to suspicious behavior or security breaches.
 Parents/Guardians: Parents can use the keylogger to keep track of their children's online interactions, identify potential risks, and promote a safe digital environment.
@@ -22,6 +23,7 @@ Educational Institutions: Educational institutions can use the keylogger to moni
 Individuals for Personal Security: Individuals can use the keylogger as a personal security tool to monitor their own devices, detect potential unauthorized access, and take preventive measures against identity theft or unauthorized use.
 
 SOLUTION AND ITS VALUE PROPOSITION
+
 The keylogger captures a comprehensive log of keystrokes, providing valuable insights into user activities.The solution is versatile, making it applicable in various scenarios such as corporate environments, parental control, and educational institutions. By offering real-time tracking of pressed, held, and released keys, our solution allows for instant detection of any suspicious or unauthorized activities. I prioritize security by implementing a secure logging mechanism that stores the captured data in both a text file and a JSON file, ensuring ease of analysis while maintaining data integrity. The intuitive graphical user interface built with Tkinter makes the solution accessible and easy to use for individuals with varying technical expertise.
 
 INSTRUCTIONS:
